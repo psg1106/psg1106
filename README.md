@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @psg1106
-- 👀 I’m interested in Web development.
+- 👀 I’m interested in Web development and Blockchain Development.
 - 🌱 I’m currently learning AI.
 - 💞️ I’m looking to collaborate on some teams.
 - 📫 How to reach me ...Gmail: johnkalp1106@gmail.com    telegram:johnPaskala    SkypeID:live:.cid.683cb4db01e69b90
