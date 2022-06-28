@@ -1,7 +1,9 @@
 
 
 ### ChampionDev  
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" height="" width="600" />  
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="600" />
+</div>  
   
 
 ### <div align="center">I'm John Paskala, a full-time full-stack freelance developer 👨‍💻 working remotely since 2014 🚀</div>  
