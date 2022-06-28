@@ -2,7 +2,7 @@
 
 ### ChampionDev  
 <div align="center">
-<h2 align="center">👋 Hello! I'm Athul.</h2>
+<h2 align="center">👋 Hello! I'm John Paskala.</h2>
 </div>  
   
 
