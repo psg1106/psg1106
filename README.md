@@ -6,7 +6,7 @@
 </div>  
   
 
-### <div align="center">I'm John Paskala, a full-time full-stack freelance developer 👨‍💻 working remotely since 2014 🚀</div>  
+### <div align="center">I'm John Paskala, a full-time Front end freelance developer 👨‍💻 working remotely since 2014 🚀</div>  
   
 
 - 🔭 I’m currently working as a freelancer.  
@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning AI and Mashine Learning.  
   
 
-- ❓ Ask me about anything related to MERN stack and Full stack related technologies  
+- ❓ Ask me about anything related to Front end and related technologies  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
